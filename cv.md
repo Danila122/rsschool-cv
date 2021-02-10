@@ -41,3 +41,21 @@ function someFunction(){
 
 someFunction()
 ```
+
+#### **Work experience**  
+
+During self-study I did various projects on HTML code:
+
+- https://danila122.github.io/Home/
+- https://danila122.github.io/Tattoo/
+- https://danila122.github.io/America/
+- https://danila122.github.io/Insurance/
+
+
+#### **Education**  
+
+I study at the Belarusian State Economic University 
+
+#### **Foreign languages**  
+
+My english level is **A2**
